@@ -1,0 +1,13 @@
+-r requirements.txt
+# --- production stack: real embeddings, ANN/vector DB, agent graph, LLMs, eval ---
+langgraph>=0.2
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+qdrant-client>=1.10
+openai>=1.40
+google-genai>=0.3
+pypdf>=4.0
+python-docx>=1.1
+ragas>=0.2,<0.3
+datasets>=2.20
+langchain-openai>=0.2

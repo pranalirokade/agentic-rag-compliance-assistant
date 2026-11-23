@@ -1,0 +1,17 @@
+{"question": "How long are financial records retained?", "source": "data_retention_policy.md", "must_contain": "8 years", "answerable": true}
+{"question": "How long do we keep system access logs?", "source": "data_retention_policy.md", "must_contain": "12 months", "answerable": true}
+{"question": "Who is allowed to lift a legal hold?", "source": "data_retention_policy.md", "must_contain": "only the legal department", "answerable": true}
+{"question": "Within how many days must critical vulnerabilities be patched?", "source": "information_security_policy.md", "must_contain": "within 7 days", "answerable": true}
+{"question": "What is the minimum password length?", "source": "information_security_policy.md", "must_contain": "14 characters", "answerable": true}
+{"question": "Which encryption standard is required for data at rest?", "source": "information_security_policy.md", "must_contain": "aes-256", "answerable": true}
+{"question": "When must a suspected security incident be reported?", "source": "incident_response_sop.md", "must_contain": "within 1 hour", "answerable": true}
+{"question": "How quickly must customers be notified after a personal data breach?", "source": "incident_response_sop.md", "must_contain": "72 hours", "answerable": true}
+{"question": "Which vendors must provide a SOC 2 Type II report?", "source": "vendor_risk_management.md", "must_contain": "soc 2 type ii", "answerable": true}
+{"question": "How fast must vendor access be revoked when the relationship ends?", "source": "vendor_risk_management.md", "must_contain": "within 24 hours", "answerable": true}
+{"question": "What should I do if my work laptop is lost?", "source": "remote_work_device_policy.md", "must_contain": "within 2 hours", "answerable": true}
+{"question": "After how many minutes of inactivity do devices lock?", "source": "remote_work_device_policy.md", "must_contain": "5 minutes", "answerable": true}
+{"question": "Above what value must a gift be declared?", "source": "anti_bribery_gifts_policy.md", "must_contain": "usd 50", "answerable": true}
+{"question": "Are facilitation payments allowed?", "source": "anti_bribery_gifts_policy.md", "must_contain": "prohibited in all circumstances", "answerable": true}
+{"question": "What is the company parental leave policy?", "source": null, "must_contain": null, "answerable": false}
+{"question": "How many vacation days do employees get per year?", "source": null, "must_contain": null, "answerable": false}
+{"question": "What is the CEO's salary?", "source": null, "must_contain": null, "answerable": false}
